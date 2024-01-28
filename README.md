@@ -6,3 +6,4 @@ with the fetuers :
 -slower faster audio 
 -merging audios/ merging at specific time 
 -changing the audio channel left/right ear 
+-audio wave screen
